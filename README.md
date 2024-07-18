@@ -36,8 +36,8 @@ state management has been done using riverpod.
 
 ## Features of the app With Screenshots
 
-| Task                  | Screenshot                                         | Task                               | Screenshot                                                      |
-| --------------------- | -------------------------------------------------- | ---------------------------------- | --------------------------------------------------------------- | --------------------------------------------- | -------------------------------------------------------------------------- |
-| Empty Places Screen   | ![Empty Places Screen](assets/screenShots/1.png)   | New Places Adding Screen           | ![New Places Adding Screen](assets/screenShots/2.png)           |
-| Filled Place Input    | ![Filled Place Input](assets/screenShots/3.png)    | Places Screen After Adding an Ietm | ![Places Screen After Adding an Ietm](assets/screenShots/4.png) |
-| Location Input Screen | ![Location Input Screen](assets/screenShots/5.png) | Place Details Screen               | ![Place Details Screen](assets/screenShots/6.png)               | Reviewing Picked Location From Details Screen | ![Reviewing Picked Location From Details Screen](assets/screenShots/7.png) |
+| Task                     | Screenshot                                            | Task                               | Screenshot                                                      |
+| ------------------------ | ----------------------------------------------------- | ---------------------------------- | --------------------------------------------------------------- | --------------------------------------------- | -------------------------------------------------------------------------- |
+| New Places Adding Screen | ![New Places Adding Screen](assets/screenShots/2.png) |
+| Filled Place Input       | ![Filled Place Input](assets/screenShots/3.png)       | Places Screen After Adding an Ietm | ![Places Screen After Adding an Ietm](assets/screenShots/4.png) |
+| Location Input Screen    | ![Location Input Screen](assets/screenShots/5.png)    | Place Details Screen               | ![Place Details Screen](assets/screenShots/6.png)               | Reviewing Picked Location From Details Screen | ![Reviewing Picked Location From Details Screen](assets/screenShots/7.png) |
